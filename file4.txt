@@ -2,4 +2,7 @@ hi everyone
 how are youy ?
 
 how is your devops preparation going on ?
+
 what about Terraforn & GitHubActions ?
+what about Docker & K8s ?
+
