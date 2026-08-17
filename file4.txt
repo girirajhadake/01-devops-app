@@ -3,3 +3,4 @@ how are youy ?
 
 how is your devops preparation going on ?
 
+what about Docker & K8s ?
